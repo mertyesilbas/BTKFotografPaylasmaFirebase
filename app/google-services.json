@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "764682485776",
+    "project_id": "btkfotografpaylasma",
+    "storage_bucket": "btkfotografpaylasma.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764682485776:android:d428dd83f8863f8d220a95",
+        "android_client_info": {
+          "package_name": "com.example.btkfotografpaylasmafirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "764682485776-f8orgjh60locr9v53bug6ftq6eor4fjn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIN8VdYpCUDi5fF4U5VN-haBP9AMfzSz4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "764682485776-f8orgjh60locr9v53bug6ftq6eor4fjn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
